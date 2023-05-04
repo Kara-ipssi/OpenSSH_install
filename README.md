@@ -2,16 +2,6 @@
 
 Ce script permet de télécharger, compiler et installer une nouvelle version de SSH sur un système Linux.
 
-## Prérequis
-
-Avant d'utiliser ce script, vous devez vous assurer que les paquets `build-essential` et `zlib1g-dev` sont installés sur votre système. Vous pouvez les installer en utilisant la commande suivante :
-
-```bash
-sudo apt-get update -y
-sudo apt-get install build-essential zlib1g-dev -y
-```
-
-
 ## Utilisation
 
 Pour utiliser ce script, vous devez d'abord télécharger le fichier `install_ssh.sh` et le rendre exécutable :
