@@ -2,6 +2,10 @@
 
 Ce script permet de télécharger, compiler et installer une nouvelle version de SSH sur un système Linux.
 
+```bash
+wget https://raw.githubusercontent.com/Kara-ipssi/OpenSSH_update/main/install_ssh.sh
+```
+
 ## Utilisation
 
 Pour utiliser ce script, vous devez d'abord télécharger le fichier `install_ssh.sh` et le rendre exécutable :
