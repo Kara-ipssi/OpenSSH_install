@@ -28,4 +28,4 @@ Avant d'installer une nouvelle version de SSH, le script demandera une confirmat
 
 ## Licence
 
-Ce script est distribué sous licence MIT. Veuillez vous référer au fichier `LICENSE` pour plus d'informations.
+Ce script est distribué sous licence APACHE. Veuillez vous référer au fichier `LICENSE` pour plus d'informations.
