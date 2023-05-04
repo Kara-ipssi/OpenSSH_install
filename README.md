@@ -26,6 +26,10 @@ Si la version spécifiée est déjà installée, le script affichera un message 
 
 Avant d'installer une nouvelle version de SSH, le script demandera une confirmation à l'utilisateur. Si l'utilisateur ne confirme pas l'installation, le script affichera un message et se terminera avec un code de sortie de 0.
 
+## Compatibilité
+
+Ce script a été testé sur Debian.
+
 ## Licence
 
 Ce script est distribué sous licence APACHE. Veuillez vous référer au fichier `LICENSE` pour plus d'informations.
